@@ -1,5 +1,5 @@
 # Buzzy-Flap 🎮
- A flappy bird clone made in Unity.
+ A flappy bird clone made in Unity and Aseprite.
 
 ## Description 📄
  In this project I learned the basics of Unity 2D game development and experimented with hitboxes, keeping a score and some animations.
